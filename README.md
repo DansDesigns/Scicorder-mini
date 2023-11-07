@@ -16,6 +16,8 @@ NS8002 Amplifier Module
 8ohm 1Watt Speaker
 Wireless Charging with internal TP4056 LiPo Charger
 MPR121 12-Channel Capacitive Touch Sensor
+Red/Green Power Status LED
+Tricolour Status LED's
 
 Integrated Sensors:
 INMP441 I2S Mono Microphone
