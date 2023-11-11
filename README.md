@@ -31,6 +31,7 @@ MPU6050 3-Axis Accelerometer, 3-Axis Gyroscope
   & Internal Temperature Sensor all-in-one
 Magnetic Open-Close Lid Sensor
 microSD Card Slot for Data Logging
+Custom Dust/Particle Density Sensor
 
 
 3D Printed Case featuring Electroplated Gold Capacitive Buttons & Highlights.
