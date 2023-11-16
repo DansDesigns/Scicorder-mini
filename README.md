@@ -60,15 +60,18 @@ Wifi Manager was taken from here:
 
 ## Installation
 ```
-If building yourself, Flash the UTS-OTA.ino to the ESP32 via Arduino IDE. (NOT AVAILABLE YET)
+If building yourself, Flash the OTA_Installer.ino to the ESP32 via Arduino IDE.
 
-On reboot the UST-OTA Update will search GitHub for the latest Release,
+On reboot the OTA Updater will search GitHub for the latest Release,
 it automatically Downloads, Installs and Reboots the Tricorder.
 
-Manual checking for update is possible but not implimented yet.
+Wifi will then need to be setup again by using the Setup_AP Function.
+- RETAIN SSID BETWEEN UPDATES - WIP
+
+Manual checking for update is possible by typing "U" into the Serial Monitor.
 
 If need to change WIFI SSID, press the WIFI Button and connect to the
-"UST_Setup_AP" WIFI Access Point from a wifi enabled device, following the on screen instructions.
+"Setup_AP" WIFI Access Point from a wifi enabled device, following the on screen instructions.
 ```
 
 ## Usage
@@ -81,7 +84,7 @@ If need to change WIFI SSID, press the WIFI Button and connect to the
 ```
 WIP = In Progress, TBS = To Be Started , TBD = To Be Decided, R&D = Research needed
 
-- Make simple UST-OTA.ino starter file to run OTA updater, pulling latest Release to flash full working code. - WIP
+- Make simple OTA_Installer.ino starter file to run OTA updater, pulling latest Release to flash full working code. - DONE
 - Finish this ReadMe..
 
 ```
