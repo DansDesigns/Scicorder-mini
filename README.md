@@ -55,6 +55,9 @@ I2S Microphone Streaming was modified from here:
 Wifi Manager was taken from here:
 - https://github.com/ozbotics/WIFIMANAGER-ESP32/tree/master
 
+OTA Updater modified from:
+- https://www.youtube.com/watch?v=o4Qw0CDzO7E
+
 
 ```
 
