@@ -1,7 +1,7 @@
 # Ultra-Slim-Tricorder
 A multi sensor device based on ESP32, Inspired by Star Trek TNG Tricorder
 
-NOTE, THIS IS STILL IN DEVELOPMENT AND CURRENTLY AROUND 85% DONE..
+NOTE, DUE TO TECHNICAL LIMITATIONS, THIS PROJECT HAS BEEN UPGRADED - SEE THE SCIO REPO
 
 Youtube Development Channel:
 https://www.youtube.com/channel/UC_F5HQEmCyoRnEubfEMa24g
